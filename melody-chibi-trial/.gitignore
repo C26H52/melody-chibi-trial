@@ -1,0 +1,12 @@
+.DS_Store
+action-qa/
+tmp/
+validation.json
+source-*.png
+debug-*.png
+*-contact-sheet*.jpg
+idle-preview.gif
+spritesheet.png
+preview.png
+spritesheet-idle-only-backup.webp
+melody-chibi-trial/
