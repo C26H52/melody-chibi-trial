@@ -1,18 +1,24 @@
 # 泽音melody
 
-An original pink-haired chibi Codex pet package.
+一位来自VR的哔哩哔哩的朱鹮小天使。
 
 ## Package Files
 
 - `pet.json`
 - `spritesheet.webp`
 - `preview.webp`
-- `melody-chibi-trial.zip`
+- `melody.zip`
 
 The upload/install-ready copy is also exported under:
 
-- `release/melody-chibi-trial/`
-- `release/melody-chibi-trial.zip`
+- `release/melody/`
+- `release/melody.zip`
+
+## Install
+
+```bash
+npx codex-pets add melody
+```
 
 ## Codex Pet Atlas
 
