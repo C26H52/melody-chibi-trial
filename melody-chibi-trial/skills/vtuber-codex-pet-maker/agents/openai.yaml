@@ -1,0 +1,4 @@
+interface:
+  display_name: "VTuber Codex Pet Maker"
+  short_description: "Create Codex Pets from VTuber references"
+  default_prompt: "Create a Codex pet package for this VTuber from the provided references."
